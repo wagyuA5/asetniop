@@ -11,7 +11,7 @@ In the repository, I uploaded the original autohotkey source code on how to run 
 
 I did not make the original code, all credit goes to the creator of asetniop, Zack Dennis.
 
-Simple download AutoHotKey, create a new script and copy and paste the code. It is configured so that the home row are set to ASETNIOP and all bottom row letters are set to SHIFT.
+Simply download AutoHotKey, create a new script and copy and paste the code. It is configured so that the home row are set to ASETNIOP and all bottom row letters are set to SHIFT.
 
 One limitation is that this code doesn't contain only word chords only single characters. However it is the easiest way to get started and every beginners should memorize how 
 to type every letter.
