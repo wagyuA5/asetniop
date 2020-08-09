@@ -21,7 +21,6 @@ I would like to expand to code to include word chords of 250 most common English
 Method 2: Using QMK
 
 QMK is a keyboard customization software that allows extreme flexiblity on your keyboard. All changes on QMK happen at the hardware level meaning that once you make an asetniop
-
 keyboard using QMK. You can have a plug and play ASETNIOP keyboard on any computer.
 
 
